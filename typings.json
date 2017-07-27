@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "express": "registry:npm/express#4.14.0+20170217205433",
+    "koa-bodyparser": "registry:dt/koa-bodyparser#3.0.0+20170120190901"
+  }
+}
